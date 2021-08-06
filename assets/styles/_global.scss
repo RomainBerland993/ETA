@@ -1,0 +1,10 @@
+body{
+    background: $body;
+    .btn-outline{
+        color: white;
+        border: 1px solid $body;
+    }
+    .btn-outline:hover{
+        background: $body;
+    }
+}
