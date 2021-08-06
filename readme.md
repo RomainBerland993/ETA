@@ -22,3 +22,7 @@ symfony check:requirements
 symfony server:start
 '''
 
+### Lancer les tests unitaires
+'''bash
+php bin/phpunit --testdox
+'''
